@@ -1,13 +1,8 @@
 <h2>Tasks for learning Git and GitHub</h2>
-
-**Task 0**
-1. Fork the repository and clone the fork on your machine
-2. Create your own branch from master with your FN 
-3. Add a text file, called after your FN that contains your name/nickname, in the participants directory on your branch
-4. Commit your changes
-5. Create a PR to the original's repo master branch
-
-<h3> Do all the tasks on your own forked repo </h3>
-
-**Task 1**
-
+<ul>
+	<li>This repository is an interactive task for studying Git and GitHub</li>
+	<li>The tasks are located on separate branches</li>
+	<li>To do a certain task, you will need to go to the branch that has its number</li>
+	<li>Start with Task-00 by switching the branch from master to Task-00</li>
+	<li>Have fun while learning</li>
+</ul>
