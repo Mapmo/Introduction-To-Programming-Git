@@ -1,4 +1,5 @@
 Merge branches
 ==========
-1. Merge branch Task-06-feature into branch Task-06
-2. Push your changes to GitHub
+1. Merge branch Task-09-feature into branch Task-09
+2. The program must preserve both files' changes
+3. Push your changes to GitHub
