@@ -1,4 +1,5 @@
 Delete a branch
 =====
-1. Delete this branch locally
-2. Delete this branch from origin
+1. Create a hello world file and commit it (don't push it)
+2. Go to master branch
+3. Delete branch  Task-12 locally
