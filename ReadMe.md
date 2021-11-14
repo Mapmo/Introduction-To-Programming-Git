@@ -5,7 +5,7 @@ Restore a lost commit
 ```bash
 echo 'Important' > file.txt
 git add file.txt
-git commit -m "Add an important file"
+git commit -m "Add an important file" &>/dev/null
 git reset --hard HEAD~1
 ```
 1. A commit containing an important text file was lost
